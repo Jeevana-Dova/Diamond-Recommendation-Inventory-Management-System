@@ -58,7 +58,35 @@ Automated price tracking, restocking alerts, and order saving
 ---
 
 ## Files and Structures
-├── diamonds_sample.csv        ← Sample data (500 rows) for demo; full dataset not included due to size limits
+README.md – Project documentation
+
+requirements.txt – List of dependencies
+
+adjustment_log.txt – Admin price adjustment logs
+
+diamond_gui.py – GUI for customer recommendations
+
+diamond_quality_recommendation.py – Alternate GUI based on quality filters
+
+diamond_recommendation.py – Core recommendation system logic
+
+order.py – Order placement interface
+
+manager.py – Admin module for price adjustments
+
+smart_restocking.py – Automated stock and restocking logic
+
+test_inventory.py – Unit tests for inventory operations
+
+test_recommendation.py – Unit tests for recommendation logic
+
+diamonds_sample.csv – ⚠Sample data (500 rows); full dataset not included due to GitHub size limit
+
+order_details.csv – Records of completed orders
+
+sold_stones.csv – Tracks sold diamond stock
+
+inventory_status.csv – Generated inventory status with low-stock alerts
 
 ---
 
