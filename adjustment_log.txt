@@ -1,0 +1,6 @@
+# adjustment_log.txt
+# Log of all price adjustments made by authorized managers.
+
+2025-01-10 14:22 | Adjustment: +5% | Reason: New Year price bump
+2025-02-14 09:12 | Adjustment: -10% | Reason: Valentine's Day sale
+2025-03-05 11:45 | Adjustment: +3% | Reason: Market price correction
