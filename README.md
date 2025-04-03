@@ -4,7 +4,7 @@ A full-featured diamond recommendation and inventory management application buil
 
 ## Project Overview
 
-- **Timeline:** Nov 2024 – Jan 2025  
+- **Timeline:** Nov 2024 - Jan 2025  
 - **Goal:** Build a diamond recommendation and inventory system with real-time interaction and admin control  
 - **Best Features:** Smart restocking, order tracking, and modular architecture  
 - **Tech Stack:** Python, Pandas, Tkinter, CSV, Pytest
@@ -73,6 +73,6 @@ Python, Pandas, Tkinter
 
 Pytest
 
-CSV for data I/O (replaceable by DB)
+CSV for data I/O 
 
 Re (Regex) for validation
