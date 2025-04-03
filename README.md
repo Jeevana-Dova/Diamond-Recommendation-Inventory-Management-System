@@ -80,7 +80,7 @@ test_inventory.py – Unit tests for inventory operations
 
 test_recommendation.py – Unit tests for recommendation logic
 
-diamonds_sample.csv – ⚠Sample data (500 rows); full dataset not included due to GitHub size limit
+diamonds_sample.csv – Sample data (500 rows); full dataset not included due to GitHub size limit
 
 order_details.csv – Records of completed orders
 
