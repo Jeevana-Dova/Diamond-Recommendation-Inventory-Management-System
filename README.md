@@ -57,6 +57,11 @@ Automated price tracking, restocking alerts, and order saving
 
 ---
 
+## Files and Structures
+├── diamonds_sample.csv        ← Sample data (500 rows) for demo; full dataset not included due to size limits
+
+---
+
 ## Future Work
 Add Streamlit dashboard for visual inventory management
 
