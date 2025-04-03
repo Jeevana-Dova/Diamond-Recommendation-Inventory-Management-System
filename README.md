@@ -47,3 +47,32 @@ A full-featured diamond recommendation and inventory management application buil
 - Admin can also view top-selling diamonds and adjust prices if needed
 
 ---
+
+## Key Highlights
+Built end-to-end system with GUI, logic, and admin control
+
+Enabled robust recommendations with input validation and filtering
+
+Automated price tracking, restocking alerts, and order saving
+
+---
+
+## Future Work
+Add Streamlit dashboard for visual inventory management
+
+Integrate SQLite or MySQL for better scalability
+
+Build user login/registration flow with different access levels
+
+Cloud deployment (Heroku or AWS) for live use
+
+---
+
+## Tools Used
+Python, Pandas, Tkinter
+
+Pytest
+
+CSV for data I/O (replaceable by DB)
+
+Re (Regex) for validation
